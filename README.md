@@ -1,4 +1,2 @@
-# odin-recipes
-It's a website about recipes.
+# Greek Styles
 
-I use only HTML.
